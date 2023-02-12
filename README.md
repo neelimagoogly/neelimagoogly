@@ -1,8 +1,9 @@
+
 # 💫 About Me:
-Who am I ?<br>Hi, I'm Neelima Mohanty , a sophomore(2nd year student) pursuing my BTech degree in Computer Science and Engineering at Odisha University of Technology and Research,Bhubaneswar,Odisha.<br>I am both a Web and App Developer , an open source enthusiast and a Technical Writer. I love programming and solving real-time problems and am an active contributor to some open source projects. I have a strong hold on multiple tech skills mentioned below:
+## Who am I ?<br>Hi, I'm Neelima Mohanty , a sophomore(2nd year student) pursuing my BTech degree in Computer Science and Engineering at Odisha University of Technology and Research,Bhubaneswar,Odisha.<br>I am both a Web and App Developer , an open source enthusiast and a Technical Writer. I love programming and solving real-time problems and am an active contributor to some open source projects. I have a strong hold on multiple tech skills mentioned below:
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neelima-mohanty-5b765824a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/neelimagoogly) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCkzCiIhRET0FVeCZ2hVmJOw) 
 
 # 💻 Tech Stack:
@@ -15,8 +16,7 @@ Who am I ?<br>Hi, I'm Neelima Mohanty , a sophomore(2nd year student) pursuing m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neelimagoogly&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/neelimagoogly)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+#
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neelimagoogly&icon=0&color=11)](https://visitcount.itsvg.in)
