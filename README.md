@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-## Who am I ?<br>Hi, I'm Neelima Mohanty , a sophomore(2nd year student) pursuing my BTech degree in Computer Science and Engineering at Odisha University of Technology and Research,Bhubaneswar,Odisha.<br>I am both a Web and App Developer , an open source enthusiast and a Technical Writer. I have also learnt developing blockchain and bitcoin mining related apps also. I love programming and solving real-time problems and am an active contributor to some open source projects. I have a strong hold on multiple tech skills mentioned below:
+## Who am I ?<br>Hi, I'm Neelima Mohanty , a pre-final(3rd year student) pursuing my BTech degree in Computer Science and Engineering at Odisha University of Technology and Research,Bhubaneswar,Odisha.<br>I am both a Web and App Developer , an open source enthusiast and a Technical Writer. I have also learnt developing blockchain and bitcoin mining related apps also. I love programming and solving real-time problems and am an active contributor to some open source projects. I have a strong hold on multiple tech skills mentioned below:
 
 
 # 🌐 Socials:
